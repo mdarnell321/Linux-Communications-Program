@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CommunicationsProgram" Database="" Version="10000">
+  <Project Name="Client" Path="Client/Client.project" Active="No"/>
+  <Project Name="Server" Path="Server/Server.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Client" ConfigName="Debug"/>
+      <Project Name="Server" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Client" ConfigName="Release"/>
+      <Project Name="Server" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
