@@ -72,5 +72,5 @@ sudo apt-get upgrade
 
 ### <ins>License</ins>
 
-[MIT](https://github.com/mdarnell123/Linux-Communications-Program/blob/master/LICENSE.md)
+[MIT](https://github.com/mdarnell321/Linux-Communications-Program/blob/master/LICENSE.md)
 
